@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WPMarathi - Type in Devanagari in WordPress
+Plugin Name: WPDevanagari - Type in Devanagari in WordPress
 Plugin URI: https://plugins.gallery
 Description: Type in Devanagari inside WordPress. Hello -> हॅलो. WPDevanagari helps you save time by letting you type inside Classic Editor and Gutenberg in Devanagari.
 Author: Team WPGenius
